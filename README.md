@@ -1,5 +1,7 @@
 # ChronoScio Wiki.
 
+See the full wiki here: https://chronoscio.github.io/wiki/.
+
 ## Table of Contents
 
 - Abount
