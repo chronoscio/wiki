@@ -4,7 +4,7 @@ See the full wiki here: https://chronoscio.github.io/wiki/.
 
 ## Table of Contents
 
-- Abount
+- About
   - [Overview](/about/overview.md)
 - Features
   - [Facts & Narratives](/features/facts_and_narratives.md)
