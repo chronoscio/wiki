@@ -11,7 +11,7 @@ An Entity is an abstract concept providing for two general properties:
 1. Identification by name or appellation, and in particular by a preferred identifier.
 2. Classification by type, allowing further refinement of the specific subclass an instance belongs to.
 
-In [ChronoScio v1](/roadmap/v1.md), only the Political Entity subclass has been implemented.
+In [ChronoScio v1](../roadmap/v1.md), only the Political Entity subclass has been implemented.
 
 ### Political Entities
 

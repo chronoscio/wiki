@@ -4,7 +4,7 @@ Here are the features that ChronoScio already implemented, or is willing to impl
 
 ## Table of Contents
 
-- [Facts](/features/facts.md)
-- [Collaboration & Moderation](/features/collaboration_moderation.md)
-- [💡 Narratives](/features/narratives.md)
+- [Facts](./facts.md)
+- [Collaboration & Moderation](./collaboration_moderation.md)
+- [💡 Narratives](./narratives.md)
 - 💡 Weight System
