@@ -35,7 +35,7 @@ Documents, monuments, buildings etc, could all possibly be added in the future a
 
 Each Entity has one or more Territories. A Territory is simply a shapefile (i.e. a shape on the map), with a start date and an end date. This shape can be a polygon (for Political Entities), or a point (for Events or People).
 
-The start and end dates of Territories linked to the same Entity cannot overlap. Therefore, put together, the Territories show the evolution in time of this Entity. For example, a moving Person can have a series of Territories (of type point) with consecutive start and end dates, which represent his/her trajectory.
+The start and end dates of Territories linked to the same Entity cannot overlap. Therefore, put together, the Territories show the evolution in time of this Entity. For example, a moving Person can have a series of Territories (of type point) with consecutive start and end dates, which represent his/her trajectory; a kingdom may see its borders changing with a series of polygon Territories.
 
 [CIDOC reference](http://www.cidoc-crm.org/Entity/E94-Space-Primitive/Version-6.2).
 
