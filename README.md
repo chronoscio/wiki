@@ -5,6 +5,7 @@ See the full wiki here: https://chronoscio.github.io/wiki/.
 ## Table of Contents
 
 - About
+  - [Onboarding](./about/onboarding.md)
   - [Overview](./about/overview.md)
 - [Features](./features/index.md)
   - [Facts](./features/facts.md)
