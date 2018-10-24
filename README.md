@@ -19,7 +19,6 @@ See the full wiki here: https://chronoscio.github.io/wiki/.
   - Frontend/backend coding
   - Design
 - Roadmap
-  - [Progress overview (Sep 2018)](https://docs.google.com/presentation/d/1EyJYMXEDK9TLzRNyRprRQEuJvMuJ-CWPuvdXaYIAihQ/edit?usp=drive_web&ouid=105506273139766405630)
   - [v1](./roadmap/v1.md)
 
 ## Come chat with us!
