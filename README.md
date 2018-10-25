@@ -16,6 +16,7 @@ See the full wiki here: https://chronoscio.github.io/wiki/.
 - [Contribute](./contribute/index.md)
   - Input historical data
   - [Draw historical maps](./contribute/draw_historical_maps.md)
+    - [List of historic map resources](https://docs.google.com/document/d/16VRnTbky9e9FsBZ9H9JlnpvoaQQbquDte8APCQQ8cS8/edit)
   - Frontend/backend coding
   - Design
 - Roadmap
