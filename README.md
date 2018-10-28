@@ -9,6 +9,7 @@ See the full wiki here: https://chronoscio.github.io/wiki/.
   - [Overview](./about/overview.md)
 - [Features](./features/index.md)
   - [Facts](./features/facts.md)
+  - [Verification Logic](./features/verification.md)
   - [Collaboration & Moderation](./features/collaboration_moderation.md)
   - [💡 Narratives](./features/narratives.md)
   - 💡 Weight System
